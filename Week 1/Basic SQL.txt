@@ -1,0 +1,57 @@
+
+
+1. Question 1
+The primary key of a relational table uniquely identifies each row in a table. True or False?
+
+
+>>True
+
+
+False
+
+
+2. Question 2
+The INSERT statement cannot be used to insert multiple rows in a single statement. (T/F)
+
+
+True
+
+
+>>False
+
+3. Question 3
+The SELECT statement is called a Query, and the output we get from executing the query is called a Result Set.
+
+
+>>True
+
+
+False
+
+4. Question 4
+The CREATE TABLE statement is a....
+
+
+DML statement
+
+
+>>DDL statement
+
+
+Both of the above
+
+
+5. Question 5
+What are the basic categories of the SQL language based on functionality?
+
+
+Data Definition Language
+
+
+Data Manipulation Language
+
+
+>>Both of the above
+
+
+None of the above
